@@ -8,7 +8,7 @@ import Education from "./components/Education.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
 import { useEffect, useState } from "react";
-
+q
 // TEMPLATE: only the structure (empty tags + CSS classes).
 // TODO (class): fetch the data, then pass it to each component using props.
 function App() {
